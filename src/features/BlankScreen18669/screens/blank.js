@@ -86,7 +86,7 @@ export class _Blank extends React.Component {
         }}
         onPress={() => alert("Pressed!")}
       >
-        Press me!
+        Click me
       </Button>
     </View>
   )
